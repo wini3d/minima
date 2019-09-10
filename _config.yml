@@ -30,7 +30,7 @@ rss: rss
 show_excerpts: false # set to true to show excerpts on the homepage
 
 # Set this to a github repository to be used to host comments.
-github_comments_repository:  dc25/myBlog-comments
+github_comments_repository:  wini3d/minimaComments
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
